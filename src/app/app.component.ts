@@ -19,7 +19,7 @@ export class AppComponent {
   title = 'hartford';
   options =[
     { path: '/home', title: 'Home'},
-    { path: '/mental-state-exams', title: 'Mental State Exams'}
+    { path: 'nursing/mental-state-exams', title: 'Mental State Exams'}
   ]
 
 
